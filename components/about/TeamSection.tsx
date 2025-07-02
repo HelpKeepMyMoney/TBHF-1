@@ -32,20 +32,20 @@ const TeamSection = () => {
     },
     {
       name: "Antoine Hines",
-      role: "Director of Technology",
+      role: "Board of Directors",
       bio: "With over 30 years of leadership across the military, nonprofit, tech, and community sectors, Antoine made it his mission to build and scale systems that drive equity, sustainability, and measurable outcomes. As a 3x HBCU grad and Navy veteran, his approach is rooted in faith, fatherhood, and a belief that collaboration fuels generational change.",
       image: "/AntoineHines.jpg",
     },
     {
       name: "Jeff St-Louis",
-      role: "Director of Technology",
+      role: "Board of Directors",
       bio: "Jeff leverages his expertise in digital infrastructure and innovation to drive cutting-edge tech solutions that support and scale the Foundation's mission.",
       image: "/JeffStLouis.jpg",
     },
     {
       name: "Jacqui Kennedy",
       role: "Director of Marketing",
-      bio: "Jacqui has a background in museum curation and specializes in artifact preservation.",
+      bio: "Jacqui is a student at the Howard University School of Business. She has a background in marketing and specializes in Fashion Show Production.",
       image: "/JacquiKennedy.jpg",
     },
     {
@@ -64,9 +64,9 @@ const TeamSection = () => {
     >
       <div className="container mx-auto px-4 sm:px-6">
         <SectionHeading
-          subtitle="Leadership"
-          title="Meet Our Team"
-          description="Our dedicated team brings diverse expertise in history, education, technology, and community organizing to fulfill our mission of preserving Black history."
+          subtitle="Governance"
+          title="Board of Directors"
+          description="Our dedicated board brings diverse expertise in history, education, technology, and community organizing to fulfill our mission of preserving Black history."
           centered
         />
 
