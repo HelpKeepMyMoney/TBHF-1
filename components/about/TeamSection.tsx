@@ -31,6 +31,12 @@ const TeamSection = () => {
       image: "/MikeEvans.jpg",
     },
     {
+      name: "Antoine Hines",
+      role: "Director of Technology",
+      bio: "With over 30 years of leadership across the military, nonprofit, tech, and community sectors, Antoine made it his mission to build and scale systems that drive equity, sustainability, and measurable outcomes. As a 3x HBCU grad and Navy veteran, his approach is rooted in faith, fatherhood, and a belief that collaboration fuels generational change.",
+      image: "/AntoineHines.jpg",
+    },
+    {
       name: "Jeff St-Louis",
       role: "Director of Technology",
       bio: "Jeff leverages his expertise in digital infrastructure and innovation to drive cutting-edge tech solutions that support and scale the Foundation's mission.",
